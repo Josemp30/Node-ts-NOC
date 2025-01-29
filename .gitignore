@@ -8,4 +8,5 @@ logs/
 /mongo-test
 /postgres
 /postgres-test
+.DS_Store
 
