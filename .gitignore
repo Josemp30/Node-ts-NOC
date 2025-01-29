@@ -1,0 +1,11 @@
+
+node_modules/
+.env
+.env.test
+coverage/
+logs/
+/mongo
+/mongo-test
+/postgres
+/postgres-test
+
